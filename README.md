@@ -1,4 +1,4 @@
-# midjourney_flutter_app
+Midjourney_Flutter_app
 
 A new Flutter project.
 
