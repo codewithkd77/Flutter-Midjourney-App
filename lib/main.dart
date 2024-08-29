@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:midjourney_flutter_app/feature/prompt/ui/create_prompt_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MyApp());  
 }
 
 class MyApp extends StatelessWidget {
